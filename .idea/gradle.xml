@@ -8,12 +8,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/libapp" />
             <option value="$PROJECT_DIR$/libtools" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/libapp" />
             <option value="$PROJECT_DIR$/libtools" />
           </set>
         </option>

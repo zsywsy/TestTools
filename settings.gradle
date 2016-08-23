@@ -1,1 +1,1 @@
-include ':libtools'
+include ':libtools', ':libapp'
